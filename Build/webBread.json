@@ -1,0 +1,13 @@
+{
+"companyName": "Tre,Jeremy,Brooker",
+"productName": "SandwichSimulator",
+"dataUrl": "webBread.data.unityweb",
+"asmCodeUrl": "webBread.asm.code.unityweb",
+"asmMemoryUrl": "webBread.asm.memory.unityweb",
+"asmFrameworkUrl": "webBread.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
